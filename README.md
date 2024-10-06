@@ -44,9 +44,6 @@ The project includes visualizations and analysis of:
 - Explore domain-specific fine-tuning
 
 ## Contributors
-[Your Name]
-
-## License
-[Specify your license here]
+Wentao Ma
 
 This README provides a concise overview of your project, its key features, setup instructions, and main components, making it easy for others to understand and potentially contribute to your work.
