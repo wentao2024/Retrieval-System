@@ -42,8 +42,3 @@ The project includes visualizations and analysis of:
 - Experiment with different language models
 - Implement more advanced retrieval techniques
 - Explore domain-specific fine-tuning
-
-## Contributors
-Wentao Ma
-
-This README provides a concise overview of your project, its key features, setup instructions, and main components, making it easy for others to understand and potentially contribute to your work.
